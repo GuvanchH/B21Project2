@@ -3,5 +3,6 @@ public class featureAClass {
     // line 1
     // line 2
     // line 3
+        System.out.println("hello");
     }
 }
